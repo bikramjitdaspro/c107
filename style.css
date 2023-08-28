@@ -1,0 +1,31 @@
+body{
+    background-color: blue;
+
+}
+.header_div{
+    background-color: brown;
+    color: black;
+}
+.header_div p{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    letter-spacing: 3px;
+    font-size: larger;
+}
+.main_div button{
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   margin-top: 20px;
+   width: 150px;
+   letter-spacing: 2px;
+}
+.copy_right_footer{
+    background-color: rgb(226, 83, 43);
+    color: black;
+    width: 100%;
+    font-size: larger;
+    line-height: 3;
+    text-shadow: 5px 5px 5px coral;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+} 
